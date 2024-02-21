@@ -1,15 +1,8 @@
 -👋 Hi, I’m @ayushhkawale!
-
--👀 I’m interested in the fascinating world of data science, where I can utilize my analytical skills to extract meaningful insights from complex datasets and drive data-informed decision-making.
-
--🌱 I’m currently diving deep into various machine learning algorithms and enhancing my proficiency in programming languages like Python and R to sharpen my data science toolkit.
-
--💞️ I’m looking to collaborate on projects that challenge me to apply my knowledge and skills in innovative ways, particularly in areas such as predictive modeling, natural language processing, and data visualization.
-
--📫 You can reach me via email at [insert email address] or connect with me on LinkedIn [insert LinkedIn profile link].
-
--⚡ Fun fact: When I'm not crunching numbers, you can find me exploring hiking trails or experimenting with new recipes in the kitchen!
-
+-👀 I’m interested in the dynamic field of data analysis, where I can uncover insights and tell compelling stories through data-driven narratives.
+-🌱 I’m currently honing my skills in data manipulation, visualization, and statistical analysis techniques, with a focus on tools like SQL, Excel, and Python for data wrangling and visualization.
+-💞️ I’m looking to collaborate on projects that allow me to apply my analytical skills to real-world datasets, whether it's exploring trends in business metrics, conducting market research, or optimizing processes through data-driven solutions.
+-📫 You can reach me via email at ayushhkawale@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/ayushkawale/.
 
 <!---
 ayushhkawale/ayushhkawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
